@@ -106,28 +106,28 @@ Uri: https://www.dimcoin.io/cdn-cgi/l/email-protection
 File Name: c:\DownloadedWebSites\www.dimcoin.io\cdn-cgi\l\email-protection.htm
 Content Type: text/html
 
-Uri: https://www.dimcoin.io/DIMCOIN-whitepaper.pdf
-File Name: c:\DownloadedWebSites\www.dimcoin.io\DIMCOIN-whitepaper.pdf
+Uri: https://www.dimcoin.io/DMCOIN-whitepaper.pdf
+File Name: c:\DownloadedWebSites\www.dimcoin.io\DMCOIN-whitepaper.pdf
 Content Type: application/pdf
 
-Uri: https://www.dimcoin.io/DIMCOIN-whitepaper-summary.pdf
-File Name: c:\DownloadedWebSites\www.dimcoin.io\DIMCOIN-whitepaper-summary.pdf
+Uri: https://www.dimcoin.io/DMCOIN-whitepaper-summary.pdf
+File Name: c:\DownloadedWebSites\www.dimcoin.io\DMCOIN-whitepaper-summary.pdf
 Content Type: application/pdf
 
-Uri: https://www.dimcoin.io/DIMCOIN-ICO-terms-and-conditions.pdf
-File Name: c:\DownloadedWebSites\www.dimcoin.io\DIMCOIN-ICO-terms-and-conditions.pdf
+Uri: https://www.dimcoin.io/DMCOIN-ICO-terms-and-conditions.pdf
+File Name: c:\DownloadedWebSites\www.dimcoin.io\DMCOIN-ICO-terms-and-conditions.pdf
 Content Type: application/pdf
 
-Uri: https://www.dimcoin.io/DIM-crowdsale-prospectus.pdf
-File Name: c:\DownloadedWebSites\www.dimcoin.io\DIM-crowdsale-prospectus.pdf
+Uri: https://www.dimcoin.io/DM-crowdsale-prospectus.pdf
+File Name: c:\DownloadedWebSites\www.dimcoin.io\DM-crowdsale-prospectus.pdf
 Content Type: application/pdf
 
-Uri: https://www.dimcoin.io/DIMCOIN-presentation.pdf
-File Name: c:\DownloadedWebSites\www.dimcoin.io\DIMCOIN-presentation.pdf
+Uri: https://www.dimcoin.io/DMCOIN-presentation.pdf
+File Name: c:\DownloadedWebSites\www.dimcoin.io\DMCOIN-presentation.pdf
 Content Type: application/pdf
 
-Uri: https://www.dimcoin.io/TECH-WHITEPAPER-DIM-ECOSYSTEM-V04-21062017.pdf
-File Name: c:\DownloadedWebSites\www.dimcoin.io\TECH-WHITEPAPER-DIM-ECOSYSTEM-V04-21062017.pdf
+Uri: https://www.dimcoin.io/TECH-WHITEPAPER-DM-ECOSYSTEM-V04-21062017.pdf
+File Name: c:\DownloadedWebSites\www.dimcoin.io\TECH-WHITEPAPER-DM-ECOSYSTEM-V04-21062017.pdf
 Content Type: application/pdf
 
 Uri: https://www.dimcoin.io/typo3temp/assets/js/dd82474708.js?1495185726
@@ -598,16 +598,16 @@ Uri: https://www.dimcoin.io/fileadmin/user_upload/banner/170820/slider_ru_finalw
 File Name: c:\DownloadedWebSites\www.dimcoin.io\fileadmin\user_upload\banner\170820\slider_ru_finalweek.jpg
 Content Type: image/jpeg
 
-Uri: https://www.dimcoin.io/DIMCOIN-Whitepaper-RU.pdf
-File Name: c:\DownloadedWebSites\www.dimcoin.io\DIMCOIN-Whitepaper-RU.pdf
+Uri: https://www.dimcoin.io/DMCOIN-Whitepaper-RU.pdf
+File Name: c:\DownloadedWebSites\www.dimcoin.io\DMCOIN-Whitepaper-RU.pdf
 Content Type: application/pdf
 
 Uri: https://www.dimcoin.io/fileadmin/user_upload/banner/170820/slider_zh_finalweek.jpg
 File Name: c:\DownloadedWebSites\www.dimcoin.io\fileadmin\user_upload\banner\170820\slider_zh_finalweek.jpg
 Content Type: image/jpeg
 
-Uri: https://www.dimcoin.io/DIMCOIN-Whitepaper-CHS.pdf
-File Name: c:\DownloadedWebSites\www.dimcoin.io\DIMCOIN-Whitepaper-CHS.pdf
+Uri: https://www.dimcoin.io/DMCOIN-Whitepaper-CHS.pdf
+File Name: c:\DownloadedWebSites\www.dimcoin.io\DMCOIN-Whitepaper-CHS.pdf
 Content Type: application/pdf
 
 Uri: https://www.dimcoin.io/fileadmin/user_upload/banner/170820/slider_fr_finalweek2.jpg

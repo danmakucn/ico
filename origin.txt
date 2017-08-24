@@ -1,0 +1,772 @@
+Uri: https://www.dimcoin.io/
+File Name: c:\DownloadedWebSites\www.dimcoin.io\index.htm
+Content Type: text/html
+
+Uri: https://www.dimcoin.io/fileadmin/user_upload/banner/170820/slider_en_finalweek.jpg
+File Name: c:\DownloadedWebSites\www.dimcoin.io\fileadmin\user_upload\banner\170820\slider_en_finalweek.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dimcoin.io/fileadmin/user_upload/slider2.jpg
+File Name: c:\DownloadedWebSites\www.dimcoin.io\fileadmin\user_upload\slider2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dimcoin.io/fileadmin/user_upload/slider1.jpg
+File Name: c:\DownloadedWebSites\www.dimcoin.io\fileadmin\user_upload\slider1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dimcoin.io/public/css/font-awesome.css?1496733571
+File Name: c:\DownloadedWebSites\www.dimcoin.io\public\css\font-awesome.css
+Content Type: text/css
+
+Uri: https://www.dimcoin.io/public/css/owl.carousel.css?1496733571
+File Name: c:\DownloadedWebSites\www.dimcoin.io\public\css\owl.carousel.css
+Content Type: text/css
+
+Uri: https://www.dimcoin.io/public/css/owl.theme.default.css?1496733571
+File Name: c:\DownloadedWebSites\www.dimcoin.io\public\css\owl.theme.default.css
+Content Type: text/css
+
+Uri: https://www.dimcoin.io/public/css/bootstrap.css?1496733573
+File Name: c:\DownloadedWebSites\www.dimcoin.io\public\css\bootstrap.css
+Content Type: text/css
+
+Uri: https://www.dimcoin.io/public/css/jquery.circliful.css?1496733571
+File Name: c:\DownloadedWebSites\www.dimcoin.io\public\css\jquery.circliful.css
+Content Type: text/css
+
+Uri: https://www.dimcoin.io/public/css/animate.min.css?1496733572
+File Name: c:\DownloadedWebSites\www.dimcoin.io\public\css\animate.min.css
+Content Type: text/css
+
+Uri: https://www.dimcoin.io/public/css/jquery.progressbar.css?1496733571
+File Name: c:\DownloadedWebSites\www.dimcoin.io\public\css\jquery.progressbar.css
+Content Type: text/css
+
+Uri: https://www.dimcoin.io/public/css/slick.css?1496733572
+File Name: c:\DownloadedWebSites\www.dimcoin.io\public\css\slick.css
+Content Type: text/css
+
+Uri: https://www.dimcoin.io/public/css/slick-theme.css?1496733571
+File Name: c:\DownloadedWebSites\www.dimcoin.io\public\css\slick-theme.css
+Content Type: text/css
+
+Uri: https://www.dimcoin.io/public/css/magnific-popup.css?1496733571
+File Name: c:\DownloadedWebSites\www.dimcoin.io\public\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://www.dimcoin.io/public/css/style.css?1501122183
+File Name: c:\DownloadedWebSites\www.dimcoin.io\public\css\style.css
+Content Type: text/css
+
+Uri: https://www.dimcoin.io/public/css/responsive.css?1496733571
+File Name: c:\DownloadedWebSites\www.dimcoin.io\public\css\responsive.css
+Content Type: text/css
+
+Uri: https://www.dimcoin.io/public/favicon.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\public\favicon.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/de/
+File Name: c:\DownloadedWebSites\www.dimcoin.io\de\index.htm
+Content Type: text/html
+
+Uri: https://www.dimcoin.io/ru/
+File Name: c:\DownloadedWebSites\www.dimcoin.io\ru\index.htm
+Content Type: text/html
+
+Uri: https://www.dimcoin.io/zh/
+File Name: c:\DownloadedWebSites\www.dimcoin.io\zh\index.htm
+Content Type: text/html
+
+Uri: https://www.dimcoin.io/fr/
+File Name: c:\DownloadedWebSites\www.dimcoin.io\fr\index.htm
+Content Type: text/html
+
+Uri: https://www.dimcoin.io/ja/
+File Name: c:\DownloadedWebSites\www.dimcoin.io\ja\index.htm
+Content Type: text/html
+
+Uri: https://www.dimcoin.io/pt/
+File Name: c:\DownloadedWebSites\www.dimcoin.io\pt\index.htm
+Content Type: text/html
+
+Uri: https://www.dimcoin.io/es/
+File Name: c:\DownloadedWebSites\www.dimcoin.io\es\index.htm
+Content Type: text/html
+
+Uri: https://www.dimcoin.io/vi/
+File Name: c:\DownloadedWebSites\www.dimcoin.io\vi\index.htm
+Content Type: text/html
+
+Uri: https://www.dimcoin.io/hi/
+File Name: c:\DownloadedWebSites\www.dimcoin.io\hi\index.htm
+Content Type: text/html
+
+Uri: https://www.dimcoin.io/cdn-cgi/l/email-protection
+File Name: c:\DownloadedWebSites\www.dimcoin.io\cdn-cgi\l\email-protection.htm
+Content Type: text/html
+
+Uri: https://www.dimcoin.io/DIMCOIN-whitepaper.pdf
+File Name: c:\DownloadedWebSites\www.dimcoin.io\DIMCOIN-whitepaper.pdf
+Content Type: application/pdf
+
+Uri: https://www.dimcoin.io/DIMCOIN-whitepaper-summary.pdf
+File Name: c:\DownloadedWebSites\www.dimcoin.io\DIMCOIN-whitepaper-summary.pdf
+Content Type: application/pdf
+
+Uri: https://www.dimcoin.io/DIMCOIN-ICO-terms-and-conditions.pdf
+File Name: c:\DownloadedWebSites\www.dimcoin.io\DIMCOIN-ICO-terms-and-conditions.pdf
+Content Type: application/pdf
+
+Uri: https://www.dimcoin.io/DIM-crowdsale-prospectus.pdf
+File Name: c:\DownloadedWebSites\www.dimcoin.io\DIM-crowdsale-prospectus.pdf
+Content Type: application/pdf
+
+Uri: https://www.dimcoin.io/DIMCOIN-presentation.pdf
+File Name: c:\DownloadedWebSites\www.dimcoin.io\DIMCOIN-presentation.pdf
+Content Type: application/pdf
+
+Uri: https://www.dimcoin.io/TECH-WHITEPAPER-DIM-ECOSYSTEM-V04-21062017.pdf
+File Name: c:\DownloadedWebSites\www.dimcoin.io\TECH-WHITEPAPER-DIM-ECOSYSTEM-V04-21062017.pdf
+Content Type: application/pdf
+
+Uri: https://www.dimcoin.io/typo3temp/assets/js/dd82474708.js?1495185726
+File Name: c:\DownloadedWebSites\www.dimcoin.io\typo3temp\assets\js\dd82474708.js
+Content Type: application/javascript
+
+Uri: https://www.dimcoin.io/typo3temp/assets/_processed_/4/f/csm_logo_0b23369549.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\typo3temp\assets\_processed_\4\f\csm_logo_0b23369549.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/fileadmin/user_upload/over-img1.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\fileadmin\user_upload\over-img1.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/img/b-logo.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\img\b-logo.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/fileadmin/user_upload/nem-logo.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\fileadmin\user_upload\nem-logo.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/fileadmin/user_upload/brand.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\fileadmin\user_upload\brand.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/fileadmin/user_upload/video-img1.jpg
+File Name: c:\DownloadedWebSites\www.dimcoin.io\fileadmin\user_upload\video-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dimcoin.io/fileadmin/user_upload/icon1.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\fileadmin\user_upload\icon1.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/fileadmin/user_upload/icon2.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\fileadmin\user_upload\icon2.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/typo3conf/ext/aiskin/Resources/Public/images/bitcoin.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\typo3conf\ext\aiskin\Resources\Public\images\bitcoin.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/typo3conf/ext/aiskin/Resources/Public/images/ethereum.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\typo3conf\ext\aiskin\Resources\Public\images\ethereum.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/typo3conf/ext/aiskin/Resources/Public/images/dash.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\typo3conf\ext\aiskin\Resources\Public\images\dash.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/typo3conf/ext/aiskin/Resources/Public/images/litecoin.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\typo3conf\ext\aiskin\Resources\Public\images\litecoin.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/typo3conf/ext/aiskin/Resources/Public/images/nem.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\typo3conf\ext\aiskin\Resources\Public\images\nem.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/typo3conf/ext/aiskin/Resources/Public/images/tether.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\typo3conf\ext\aiskin\Resources\Public\images\tether.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/fileadmin/user_upload/icon-big1.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\fileadmin\user_upload\icon-big1.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/fileadmin/user_upload/icon-big2.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\fileadmin\user_upload\icon-big2.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/fileadmin/user_upload/icon-big3.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\fileadmin\user_upload\icon-big3.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/fileadmin/user_upload/icon-big4.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\fileadmin\user_upload\icon-big4.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/fileadmin/user_upload/document.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\fileadmin\user_upload\document.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/fileadmin/user_upload/team/fabian-K.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\fileadmin\user_upload\team\fabian-K.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/fileadmin/user_upload/team/Roelf-Barnard.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\fileadmin\user_upload\team\Roelf-Barnard.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/fileadmin/user_upload/team/Katarina-Katic.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\fileadmin\user_upload\team\Katarina-Katic.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/fileadmin/user_upload/team/Andre-Heydenrych.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\fileadmin\user_upload\team\Andre-Heydenrych.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/fileadmin/user_upload/team/Stanley-Luvhani.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\fileadmin\user_upload\team\Stanley-Luvhani.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/fileadmin/user_upload/team/Anne-Mercy-Minyaho.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\fileadmin\user_upload\team\Anne-Mercy-Minyaho.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/fileadmin/user_upload/team/Uros-Trajkovic.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\fileadmin\user_upload\team\Uros-Trajkovic.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/fileadmin/user_upload/team/Vivien-Tillett.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\fileadmin\user_upload\team\Vivien-Tillett.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/fileadmin/user_upload/team/Nolwazi-Mabena.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\fileadmin\user_upload\team\Nolwazi-Mabena.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/fileadmin/user_upload/team/Lucky-Mlombo.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\fileadmin\user_upload\team\Lucky-Mlombo.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/fileadmin/user_upload/team/Trevor-Kana.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\fileadmin\user_upload\team\Trevor-Kana.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/fileadmin/user_upload/team/Yanga-Mapengo.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\fileadmin\user_upload\team\Yanga-Mapengo.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/fileadmin/user_upload/team/Franziska-Saischek.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\fileadmin\user_upload\team\Franziska-Saischek.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/fileadmin/user_upload/team/Amina-Williams.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\fileadmin\user_upload\team\Amina-Williams.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/fileadmin/user_upload/team/Jens-Heinemann.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\fileadmin\user_upload\team\Jens-Heinemann.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/fileadmin/user_upload/team/Charliza-Booyse.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\fileadmin\user_upload\team\Charliza-Booyse.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/fileadmin/user_upload/team/kim-lawrence.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\fileadmin\user_upload\team\kim-lawrence.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/fileadmin/user_upload/team/Krishna.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\fileadmin\user_upload\team\Krishna.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/fileadmin/user_upload/team/Vatscar.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\fileadmin\user_upload\team\Vatscar.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/fileadmin/user_upload/team/Mulhani.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\fileadmin\user_upload\team\Mulhani.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/fileadmin/user_upload/partner1.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\fileadmin\user_upload\partner1.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/fileadmin/user_upload/partner1-active.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\fileadmin\user_upload\partner1-active.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/fileadmin/user_upload/partner2.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\fileadmin\user_upload\partner2.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/fileadmin/user_upload/partner2-active.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\fileadmin\user_upload\partner2-active.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/fileadmin/user_upload/partner-depotwallet.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\fileadmin\user_upload\partner-depotwallet.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/fileadmin/user_upload/partner-depotwallet-activ.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\fileadmin\user_upload\partner-depotwallet-activ.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/fileadmin/user_upload/partner5.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\fileadmin\user_upload\partner5.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/fileadmin/user_upload/partner5-active.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\fileadmin\user_upload\partner5-active.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/fileadmin/user_upload/partner6.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\fileadmin\user_upload\partner6.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/fileadmin/user_upload/partner6-active.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\fileadmin\user_upload\partner6-active.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/fileadmin/user_upload/partner-8.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\fileadmin\user_upload\partner-8.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/fileadmin/user_upload/partner8-active.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\fileadmin\user_upload\partner8-active.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/fileadmin/user_upload/dimcoin-foundation-logo.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\fileadmin\user_upload\dimcoin-foundation-logo.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/fileadmin/user_upload/dimcoin-foundation-logo-active.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\fileadmin\user_upload\dimcoin-foundation-logo-active.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/fileadmin/user_upload/partner9.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\fileadmin\user_upload\partner9.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/fileadmin/user_upload/partner9-active.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\fileadmin\user_upload\partner9-active.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/fileadmin/_processed_/2/9/csm_based-on-nem-technology_efe117d9ef.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\fileadmin\_processed_\2\9\csm_based-on-nem-technology_efe117d9ef.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/public/js/jquery.min.js?1496733596
+File Name: c:\DownloadedWebSites\www.dimcoin.io\public\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://www.dimcoin.io/public/js/bootstrap.min.js?1496733595
+File Name: c:\DownloadedWebSites\www.dimcoin.io\public\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://www.dimcoin.io/public/js/owl.carousel.min.js?1496733597
+File Name: c:\DownloadedWebSites\www.dimcoin.io\public\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://www.dimcoin.io/public/js/circle-progress.min.js?1496733595
+File Name: c:\DownloadedWebSites\www.dimcoin.io\public\js\circle-progress.min.js
+Content Type: application/javascript
+
+Uri: https://www.dimcoin.io/public/js/jquery.inview.min.js?1496733595
+File Name: c:\DownloadedWebSites\www.dimcoin.io\public\js\jquery.inview.min.js
+Content Type: application/javascript
+
+Uri: https://www.dimcoin.io/public/js/jquery.progressbar.js?1496733595
+File Name: c:\DownloadedWebSites\www.dimcoin.io\public\js\jquery.progressbar.js
+Content Type: application/javascript
+
+Uri: https://www.dimcoin.io/public/js/wow.min.js?1496733596
+File Name: c:\DownloadedWebSites\www.dimcoin.io\public\js\wow.min.js
+Content Type: application/javascript
+
+Uri: https://www.dimcoin.io/public/js/slick.min.js?1496733597
+File Name: c:\DownloadedWebSites\www.dimcoin.io\public\js\slick.min.js
+Content Type: application/javascript
+
+Uri: https://www.dimcoin.io/public/js/jquery.magnific-popup.min.js?1496733595
+File Name: c:\DownloadedWebSites\www.dimcoin.io\public\js\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://www.dimcoin.io/public/js/kinetic.js?1496733597
+File Name: c:\DownloadedWebSites\www.dimcoin.io\public\js\kinetic.js
+Content Type: application/javascript
+
+Uri: https://www.dimcoin.io/public/js/jquery.final-countdown.min.js?1496733595
+File Name: c:\DownloadedWebSites\www.dimcoin.io\public\js\jquery.final-countdown.min.js
+Content Type: application/javascript
+
+Uri: https://www.dimcoin.io/public/js/jquery.appear.js?1496733595
+File Name: c:\DownloadedWebSites\www.dimcoin.io\public\js\jquery.appear.js
+Content Type: application/javascript
+
+Uri: https://www.dimcoin.io/public/js/script.js?1499151573
+File Name: c:\DownloadedWebSites\www.dimcoin.io\public\js\script.js
+Content Type: application/javascript
+
+Uri: https://www.dimcoin.io/typo3conf/ext/sp_invest/Resources/Public/Js/tx_invest.js?1501033316
+File Name: c:\DownloadedWebSites\www.dimcoin.io\typo3conf\ext\sp_invest\Resources\Public\Js\tx_invest.js
+Content Type: application/javascript
+
+Uri: https://www.dimcoin.io/public/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: c:\DownloadedWebSites\www.dimcoin.io\public\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.dimcoin.io/public/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: c:\DownloadedWebSites\www.dimcoin.io\public\fonts\fontawesome-webfont.woff2
+Content Type: application/font-woff2
+
+Uri: https://www.dimcoin.io/public/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: c:\DownloadedWebSites\www.dimcoin.io\public\fonts\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://www.dimcoin.io/public/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: c:\DownloadedWebSites\www.dimcoin.io\public\fonts\fontawesome-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.dimcoin.io/public/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: c:\DownloadedWebSites\www.dimcoin.io\public\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dimcoin.io/public/fonts/glyphicons-halflings-regular.eot
+File Name: c:\DownloadedWebSites\www.dimcoin.io\public\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.dimcoin.io/public/fonts/glyphicons-halflings-regular.woff2
+File Name: c:\DownloadedWebSites\www.dimcoin.io\public\fonts\glyphicons-halflings-regular.woff2
+Content Type: application/font-woff2
+
+Uri: https://www.dimcoin.io/public/fonts/glyphicons-halflings-regular.woff
+File Name: c:\DownloadedWebSites\www.dimcoin.io\public\fonts\glyphicons-halflings-regular.woff
+Content Type: application/font-woff
+
+Uri: https://www.dimcoin.io/public/fonts/glyphicons-halflings-regular.ttf
+File Name: c:\DownloadedWebSites\www.dimcoin.io\public\fonts\glyphicons-halflings-regular.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.dimcoin.io/public/fonts/glyphicons-halflings-regular.svg
+File Name: c:\DownloadedWebSites\www.dimcoin.io\public\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dimcoin.io/public/fonts/Flaticon.eot
+File Name: c:\DownloadedWebSites\www.dimcoin.io\public\fonts\Flaticon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.dimcoin.io/public/fonts/Flaticon.woff
+File Name: c:\DownloadedWebSites\www.dimcoin.io\public\fonts\Flaticon.woff
+Content Type: application/font-woff
+
+Uri: https://www.dimcoin.io/public/fonts/Flaticon.ttf
+File Name: c:\DownloadedWebSites\www.dimcoin.io\public\fonts\Flaticon.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.dimcoin.io/public/fonts/Flaticon.svg
+File Name: c:\DownloadedWebSites\www.dimcoin.io\public\fonts\Flaticon.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dimcoin.io/public/images/icon-image-map.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\public\images\icon-image-map.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/public/images/circle-red.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\public\images\circle-red.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/public/images/circle-blue.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\public\images\circle-blue.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/public/images/circle-white.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\public\images\circle-white.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/public/images/double-arrow-left.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\public\images\double-arrow-left.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/public/images/play-btn.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\public\images\play-btn.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/public/images/play-btn-active.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\public\images\play-btn-active.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/public/images/circle-whited.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\public\images\circle-whited.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/public/images/quort-arrow-left.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\public\images\quort-arrow-left.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/public/images/quort-arrow-right.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\public\images\quort-arrow-right.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/public/images/partner1.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\public\images\partner1.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/public/images/partner1-active.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\public\images\partner1-active.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/public/images/partner2.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\public\images\partner2.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/public/images/partner2-active.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\public\images\partner2-active.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/public/images/partner3.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\public\images\partner3.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/public/images/partner3-active.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\public\images\partner3-active.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/public/images/partner4.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\public\images\partner4.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/public/images/partner4-active.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\public\images\partner4-active.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/public/images/slider_button.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\public\images\slider_button.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/public/images/slider_button_aktiv.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\public\images\slider_button_aktiv.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/public/images/bitcoin.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\public\images\bitcoin.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/public/images/ethereum.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\public\images\ethereum.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/public/images/dash.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\public\images\dash.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/public/images/litecoin.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\public\images\litecoin.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/public/images/tether.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\public\images\tether.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/public/images/nem.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\public\images\nem.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/public/images/icon-image-mapx1.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\public\images\icon-image-mapx1.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/fileadmin/user_upload/banner/170820/slider_de_finalweek-mob.jpg
+File Name: c:\DownloadedWebSites\www.dimcoin.io\fileadmin\user_upload\banner\170820\slider_de_finalweek-mob.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dimcoin.io/fileadmin/user_upload/banner/170820/slider_de_finalweek2.jpg
+File Name: c:\DownloadedWebSites\www.dimcoin.io\fileadmin\user_upload\banner\170820\slider_de_finalweek2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dimcoin.io/fileadmin/user_upload/partner8.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\fileadmin\user_upload\partner8.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/fileadmin/user_upload/banner/170820/slider_ru_finalweek-mob.jpg
+File Name: c:\DownloadedWebSites\www.dimcoin.io\fileadmin\user_upload\banner\170820\slider_ru_finalweek-mob.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dimcoin.io/fileadmin/user_upload/banner/170820/slider_ru_finalweek.jpg
+File Name: c:\DownloadedWebSites\www.dimcoin.io\fileadmin\user_upload\banner\170820\slider_ru_finalweek.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dimcoin.io/DIMCOIN-Whitepaper-RU.pdf
+File Name: c:\DownloadedWebSites\www.dimcoin.io\DIMCOIN-Whitepaper-RU.pdf
+Content Type: application/pdf
+
+Uri: https://www.dimcoin.io/fileadmin/user_upload/banner/170820/slider_zh_finalweek.jpg
+File Name: c:\DownloadedWebSites\www.dimcoin.io\fileadmin\user_upload\banner\170820\slider_zh_finalweek.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dimcoin.io/DIMCOIN-Whitepaper-CHS.pdf
+File Name: c:\DownloadedWebSites\www.dimcoin.io\DIMCOIN-Whitepaper-CHS.pdf
+Content Type: application/pdf
+
+Uri: https://www.dimcoin.io/fileadmin/user_upload/banner/170820/slider_fr_finalweek2.jpg
+File Name: c:\DownloadedWebSites\www.dimcoin.io\fileadmin\user_upload\banner\170820\slider_fr_finalweek2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dimcoin.io/fileadmin/user_upload/banner/170820/slider_jp_finaleweek2.jpg
+File Name: c:\DownloadedWebSites\www.dimcoin.io\fileadmin\user_upload\banner\170820\slider_jp_finaleweek2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dimcoin.io/fileadmin/user_upload/banner/170820/slider_pt_finalweek-mob.jpg
+File Name: c:\DownloadedWebSites\www.dimcoin.io\fileadmin\user_upload\banner\170820\slider_pt_finalweek-mob.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dimcoin.io/fileadmin/user_upload/banner/170820/slider_pt_finalweek.jpg
+File Name: c:\DownloadedWebSites\www.dimcoin.io\fileadmin\user_upload\banner\170820\slider_pt_finalweek.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dimcoin.io/fileadmin/user_upload/banner/170820/slider_es_finalweek-mob.jpg
+File Name: c:\DownloadedWebSites\www.dimcoin.io\fileadmin\user_upload\banner\170820\slider_es_finalweek-mob.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dimcoin.io/fileadmin/user_upload/banner/170820/slider_es_finalweek.jpg
+File Name: c:\DownloadedWebSites\www.dimcoin.io\fileadmin\user_upload\banner\170820\slider_es_finalweek.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dimcoin.io/fileadmin/user_upload/banner/170820/slider_vt_finalweek-mob.jpg
+File Name: c:\DownloadedWebSites\www.dimcoin.io\fileadmin\user_upload\banner\170820\slider_vt_finalweek-mob.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dimcoin.io/fileadmin/user_upload/banner/170820/slider_vt_finalweek.jpg
+File Name: c:\DownloadedWebSites\www.dimcoin.io\fileadmin\user_upload\banner\170820\slider_vt_finalweek.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dimcoin.io/fileadmin/user_upload/banner/170820/slider_hi_finalweek.jpg
+File Name: c:\DownloadedWebSites\www.dimcoin.io\fileadmin\user_upload\banner\170820\slider_hi_finalweek.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dimcoin.io/cdn-cgi/styles/cf.errors.css
+File Name: c:\DownloadedWebSites\www.dimcoin.io\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://www.dimcoin.io/cdn-cgi/scripts/zepto.min.js
+File Name: c:\DownloadedWebSites\www.dimcoin.io\cdn-cgi\scripts\zepto.min.js
+Content Type: application/javascript
+
+Uri: https://www.dimcoin.io/cdn-cgi/scripts/cf.common.js
+File Name: c:\DownloadedWebSites\www.dimcoin.io\cdn-cgi\scripts\cf.common.js
+Content Type: application/javascript
+
+Uri: https://www.dimcoin.io/public/fonts/fontawesome-webfont.eot
+File Name: c:\DownloadedWebSites\www.dimcoin.io\public\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.dimcoin.io/cdn-cgi/styles/fonts/opensans-300.eot
+File Name: c:\DownloadedWebSites\www.dimcoin.io\cdn-cgi\styles\fonts\opensans-300.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.dimcoin.io/cdn-cgi/styles/fonts/opensans-300.woff
+File Name: c:\DownloadedWebSites\www.dimcoin.io\cdn-cgi\styles\fonts\opensans-300.woff
+Content Type: application/font-woff
+
+Uri: https://www.dimcoin.io/cdn-cgi/styles/fonts/opensans-300.ttf
+File Name: c:\DownloadedWebSites\www.dimcoin.io\cdn-cgi\styles\fonts\opensans-300.ttf
+Content Type: application/octet-stream
+
+Uri: https://www.dimcoin.io/cdn-cgi/styles/fonts/opensans-300.svg
+File Name: c:\DownloadedWebSites\www.dimcoin.io\cdn-cgi\styles\fonts\opensans-300.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dimcoin.io/cdn-cgi/styles/fonts/opensans-400.eot
+File Name: c:\DownloadedWebSites\www.dimcoin.io\cdn-cgi\styles\fonts\opensans-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.dimcoin.io/cdn-cgi/styles/fonts/opensans-400.woff
+File Name: c:\DownloadedWebSites\www.dimcoin.io\cdn-cgi\styles\fonts\opensans-400.woff
+Content Type: application/font-woff
+
+Uri: https://www.dimcoin.io/cdn-cgi/styles/fonts/opensans-400.ttf
+File Name: c:\DownloadedWebSites\www.dimcoin.io\cdn-cgi\styles\fonts\opensans-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://www.dimcoin.io/cdn-cgi/styles/fonts/opensans-400.svg
+File Name: c:\DownloadedWebSites\www.dimcoin.io\cdn-cgi\styles\fonts\opensans-400.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dimcoin.io/cdn-cgi/styles/fonts/opensans-600.eot
+File Name: c:\DownloadedWebSites\www.dimcoin.io\cdn-cgi\styles\fonts\opensans-600.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.dimcoin.io/cdn-cgi/styles/fonts/opensans-600.woff
+File Name: c:\DownloadedWebSites\www.dimcoin.io\cdn-cgi\styles\fonts\opensans-600.woff
+Content Type: application/font-woff
+
+Uri: https://www.dimcoin.io/cdn-cgi/styles/fonts/opensans-600.ttf
+File Name: c:\DownloadedWebSites\www.dimcoin.io\cdn-cgi\styles\fonts\opensans-600.ttf
+Content Type: application/octet-stream
+
+Uri: https://www.dimcoin.io/cdn-cgi/styles/fonts/opensans-600.svg
+File Name: c:\DownloadedWebSites\www.dimcoin.io\cdn-cgi\styles\fonts\opensans-600.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dimcoin.io/cdn-cgi/styles/fonts/opensans-700.eot
+File Name: c:\DownloadedWebSites\www.dimcoin.io\cdn-cgi\styles\fonts\opensans-700.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.dimcoin.io/cdn-cgi/styles/fonts/opensans-700.woff
+File Name: c:\DownloadedWebSites\www.dimcoin.io\cdn-cgi\styles\fonts\opensans-700.woff
+Content Type: application/font-woff
+
+Uri: https://www.dimcoin.io/cdn-cgi/styles/fonts/opensans-700.ttf
+File Name: c:\DownloadedWebSites\www.dimcoin.io\cdn-cgi\styles\fonts\opensans-700.ttf
+Content Type: application/octet-stream
+
+Uri: https://www.dimcoin.io/cdn-cgi/styles/fonts/opensans-700.svg
+File Name: c:\DownloadedWebSites\www.dimcoin.io\cdn-cgi\styles\fonts\opensans-700.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dimcoin.io/cdn-cgi/styles/fonts/opensans-300i.eot
+File Name: c:\DownloadedWebSites\www.dimcoin.io\cdn-cgi\styles\fonts\opensans-300i.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.dimcoin.io/cdn-cgi/styles/fonts/opensans-300i.woff
+File Name: c:\DownloadedWebSites\www.dimcoin.io\cdn-cgi\styles\fonts\opensans-300i.woff
+Content Type: application/font-woff
+
+Uri: https://www.dimcoin.io/cdn-cgi/styles/fonts/opensans-300i.ttf
+File Name: c:\DownloadedWebSites\www.dimcoin.io\cdn-cgi\styles\fonts\opensans-300i.ttf
+Content Type: application/octet-stream
+
+Uri: https://www.dimcoin.io/cdn-cgi/styles/fonts/opensans-300i.svg
+File Name: c:\DownloadedWebSites\www.dimcoin.io\cdn-cgi\styles\fonts\opensans-300i.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dimcoin.io/cdn-cgi/styles/fonts/opensans-400i.eot
+File Name: c:\DownloadedWebSites\www.dimcoin.io\cdn-cgi\styles\fonts\opensans-400i.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.dimcoin.io/cdn-cgi/styles/fonts/opensans-400i.woff
+File Name: c:\DownloadedWebSites\www.dimcoin.io\cdn-cgi\styles\fonts\opensans-400i.woff
+Content Type: application/font-woff
+
+Uri: https://www.dimcoin.io/cdn-cgi/styles/fonts/opensans-400i.ttf
+File Name: c:\DownloadedWebSites\www.dimcoin.io\cdn-cgi\styles\fonts\opensans-400i.ttf
+Content Type: application/octet-stream
+
+Uri: https://www.dimcoin.io/cdn-cgi/styles/fonts/opensans-400i.svg
+File Name: c:\DownloadedWebSites\www.dimcoin.io\cdn-cgi\styles\fonts\opensans-400i.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dimcoin.io/cdn-cgi/images/error_icons.png
+File Name: c:\DownloadedWebSites\www.dimcoin.io\cdn-cgi\images\error_icons.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: c:\DownloadedWebSites\www.dimcoin.io\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://www.dimcoin.io/cdn-cgi/images/browser-bar.png?1376755637
+File Name: c:\DownloadedWebSites\www.dimcoin.io\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
